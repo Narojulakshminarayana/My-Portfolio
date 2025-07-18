@@ -30,5 +30,5 @@ revealOnScroll();
 
 // Download Resume
 function downloadResume() {
-  window.location.href = "N.L.Narayana(Java D) (1).pdf";
+  window.location.href = "N.L.Narayana(Java Dev).pdf";
 }
